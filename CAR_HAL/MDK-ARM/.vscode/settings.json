@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "int_encoder.h": "c",
+        "tim.h": "c",
+        "main.h": "c",
+        "int_mpu6050.h": "c",
+        "int_tb6612.h": "c",
+        "oled.h": "c",
+        "com_filter.h": "c",
+        "com_pid.h": "c",
+        "app_car.h": "c",
+        "app_task.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "stm32f1xx_hal_conf.h": "c",
+        "stm32f1xx_hal_uart.h": "c"
+    }
+}
